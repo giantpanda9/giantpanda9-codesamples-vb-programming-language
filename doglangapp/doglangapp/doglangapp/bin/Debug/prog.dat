@@ -1,0 +1,40 @@
+START
+NUMBERS
+1
+@
+STRINGS
+1
+@
+OUTS
+¬ведите A=
+@
+GETN
+1
+@
+OUTS
+¬ведите B=
+@
+GETN
+2
+@
+ADD
+1
+2
+3
+@
+OUTS
+–езультат сложени€ A+B=
+@
+PUTN
+3
+@
+STOP
+
+
+
+
+
+
+
+
+
